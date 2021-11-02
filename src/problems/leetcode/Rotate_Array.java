@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-//Problem 189
+// Problem 189
 public class Rotate_Array {
     public static void main(String[] args) {
 	try (Scanner s = new Scanner(System.in)) {
